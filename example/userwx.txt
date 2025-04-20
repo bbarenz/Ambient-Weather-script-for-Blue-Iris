@@ -1,9 +1,0 @@
-﻿Outside Temp: 43°F
-Feels Like Out: 39°F
-Humidity Out: 91%
-Wind Speed: 6.5mph
-Wind Gust: 16.1mph
-Wind Direction: N  20°
-Daily Rain: 0.1in
-Outdoor AQI: 68
-Batteries: CHECK
